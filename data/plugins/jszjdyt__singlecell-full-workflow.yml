@@ -1,0 +1,8 @@
+url: https://github.com/jszjdyt/singlecell-full-workflow
+name: dsh-singlecell-workbench
+category: tools
+tarball: https://github.com/jszjdyt/singlecell-full-workflow/releases/download/v0.9.1/dsh-singlecell-workbench-0.9.1.tar.gz
+icon: https://raw.githubusercontent.com/jszjdyt/singlecell-full-workflow/main/icon-512.png
+description:
+  en: 'Single-cell RNA-seq workbench with a visual pipeline from QC, filtering, normalization, HVG, PCA, kNN graph and clustering through 2D embeddings, marker genes and cell-type annotation, plus sample integration with Harmony and RPCA, differential expression between groups, trajectory inference, cell-cell communication, regulon activity and virtual knockout. Advanced analyses and a companion bulk plugin (dsh-geobulk) are available from the same page.'
+  zh: '单细胞 RNA-seq 工作台：质控、过滤、标准化、高变基因、PCA、kNN 图与聚类，再到二维嵌入、标记基因与细胞类型注释；还支持 Harmony/RPCA 多样本整合、组间差异、轨迹推断、细胞通讯、调控子活性与虚拟敲除，并可与同作者的 bulk 插件 dsh-geobulk 联动。'
