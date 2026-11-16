@@ -1,7 +1,7 @@
 url: https://github.com/jszjdyt/singlecell-full-workflow
 name: dsh-singlecell-workbench
 category: tools
-tarball: https://github.com/jszjdyt/singlecell-full-workflow/releases/download/v0.9.1/dsh-singlecell-workbench-0.9.1.tar.gz
+tarball: https://github.com/jszjdyt/singlecell-full-workflow/releases/download/v0.9.1/dsh-singlecell-workbench-0.9.1.tgz
 icon: https://raw.githubusercontent.com/jszjdyt/singlecell-full-workflow/main/icon-512.png
 description:
   en: 'Single-cell RNA-seq workbench with a visual pipeline from QC, filtering, normalization, HVG, PCA, kNN graph and clustering through 2D embeddings, marker genes and cell-type annotation, plus sample integration with Harmony and RPCA, differential expression between groups, trajectory inference, cell-cell communication, regulon activity and virtual knockout. Advanced analyses and a companion bulk plugin (dsh-geobulk) are available from the same page.'
