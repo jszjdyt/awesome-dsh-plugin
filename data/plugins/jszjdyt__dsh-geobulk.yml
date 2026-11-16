@@ -1,0 +1,8 @@
+url: https://github.com/jszjdyt/dsh-geobulk
+name: dsh-geobulk
+category: tools
+tarball: https://github.com/jszjdyt/dsh-geobulk/releases/download/v0.1.1/dsh-geobulk-0.1.1.tgz
+icon: https://raw.githubusercontent.com/jszjdyt/dsh-geobulk/main/icon-512.png
+description:
+  en: 'GEO and bulk transcriptomics workbench: search and download GEO series with Chinese keyword translation, import your own count or TPM matrices together with sample and clinical sheets, then run QC, normalization, ComBat batch correction, limma differential expression, GO/KEGG/Hallmark enrichment, IOBR immune deconvolution, Kaplan-Meier and Cox survival, prognostic risk models, projection of bulk signatures onto a single-cell h5ad reference, and circRNA/miRNA/lncRNA/fusion/alternative-splicing analysis.'
+  zh: 'GEO 与 bulk 转录组工作台：中文关键词检索并下载 GEO 表达谱，导入自有 counts/TPM 矩阵和样本表、临床表，依次做质控、标准化、ComBat 去批次、limma 差异、GO/KEGG/Hallmark 富集、IOBR 免疫浸润、KM/Cox 生存、预后风险模型，把 bulk 签名映射到单细胞 h5ad 亚群，并分析 circRNA、miRNA、lncRNA、融合基因与可变剪接。'
